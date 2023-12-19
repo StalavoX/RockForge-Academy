@@ -1,0 +1,32 @@
+body {
+  font-family: sans-serif;
+  font-size: 16px;
+  color: black;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: black;
+}
+
+a {
+  color: black;
+}
+
+img {
+  border: 1px solid black;
+}
+
+.logo {
+  width: 200px;
+  height: 100px;
+}
+
+.imagen {
+  width: 300px;
+  height: 200px;
+}
+
+.imagen-grande {
+  width: 600px;
+  height: 400px;
+}
